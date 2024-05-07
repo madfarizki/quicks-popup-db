@@ -1,0 +1,40 @@
+{
+  "chat-lists": [
+    {
+      "id": 1,
+      "title": "109220-Naturalization",
+      "senderName": "Cameron Phillips",
+      "message": "Please check this out!",
+      "isGroup": true,
+      "newMessage": true,
+      "date": "2021-01-01T19:10:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "senderName": "Ellen",
+      "message": "Hey, please read.",
+      "isGroup": true,
+      "newMessage": false,
+      "date": "2021-02-06T10:45:00Z"
+    },
+    {
+      "id": 3,
+      "title": "8405-Diana SALAZAR MUNGUIA",
+      "senderName": "Cameron Phillips",
+      "message": "I understand your initial concerns and thats very valid, Elizabeth. But you are amazing and you can do this.",
+      "isGroup": true,
+      "newMessage": false,
+      "date": "2021-01-06T12:19:00Z"
+    },
+    {
+      "id": 4,
+      "title": "FastVisa Support",
+      "senderName": null,
+      "message": "Hey there! Welcome to your inbox.",
+      "isGroup": false,
+      "newMessage": false,
+      "date": "2021-01-06T12:19:00Z"
+    }
+  ]
+}
