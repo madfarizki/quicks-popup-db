@@ -275,6 +275,25 @@
           "color": "#CBF1C2"
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "Check and Revise Homework from Andre Gonzales",
+      "deadline": "2024-05-14",
+      "description": "Homeworks needed to be checked are as follows : Client Profile Questionnaire, Passport Requirements and Images, Personal Documents.",
+      "completed": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Client Related",
+          "color": "#CBF1C2"
+        },
+        {
+          "id": 2,
+          "name": "Self Task",
+          "color": "#CFCEF9"
+        }
+      ]
     }
   ]
 }
