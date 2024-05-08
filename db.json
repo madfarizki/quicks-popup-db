@@ -189,5 +189,92 @@
         ]
       }
     }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Important ASAP",
+      "color": "#E5F1FF"
+    },
+    {
+      "id": 2,
+      "name": "Offline Meeting",
+      "color": "#FDCFA4"
+    },
+    {
+      "id": 3,
+      "name": "Virtual Meeting",
+      "color": "#F9E9C3"
+    },
+    {
+      "id": 4,
+      "name": "ASAP",
+      "color": "#AFEBDB"
+    },
+    {
+      "id": 5,
+      "name": "Client Related",
+      "color": "#CBF1C2"
+    },
+    {
+      "id": 6,
+      "name": "Self Task",
+      "color": "#CFCEF9"
+    },
+    {
+      "id": 7,
+      "name": "Appointments",
+      "color": "#F9E0FD"
+    },
+    {
+      "id": 8,
+      "name": "Court Related",
+      "color": "#9DD0ED"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Close off Case #012920- RODRIGUES, Amiguel",
+      "deadline": "2024-05-06T10:45:00",
+      "description": "Closing off this case since this application has been cancelled. No one really understand how this case could possibly be cancelled. The options and the documents within this document were totally a guaranteed for a success!",
+      "completed": true,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Important ASAP",
+          "color": "#E5F1FF"
+        },
+        {
+          "id": 2,
+          "name": "Client Related",
+          "color": "#CBF1C2"
+        },
+        {
+          "id": 3,
+          "name": "Offline Meeting",
+          "color": "#FDCFA4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Set up documentation report for several Cases : Case 145443, Case 192829 and Case 182203",
+      "deadline": "2024-05-20T10:45:00",
+      "description": "All Cases must include all payment transactions, all documents and forms filled. All conversations in comments and messages in channels and emails should be provided as well in.",
+      "completed": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Virtual Meeting",
+          "color": "#F9E9C3"
+        },
+        {
+          "id": 2,
+          "name": "Client Related",
+          "color": "#CBF1C2"
+        }
+      ]
+    }
   ]
 }
