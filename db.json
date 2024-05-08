@@ -8,7 +8,7 @@
         "message": "Morning. I'll try to do them. Thanks.",
         "isGroup": true,
         "newMessage": true,
-        "date": "2021-01-01T19:10:00Z"
+        "date": "2024-05-06T10:45:00"
       },
       {
         "id": 2,
@@ -17,7 +17,7 @@
         "message": "Hey, please read.",
         "isGroup": true,
         "newMessage": false,
-        "date": "2021-02-06T10:45:00Z"
+        "date": "2024-05-05T10:45:00"
       },
       {
         "id": 3,
@@ -26,7 +26,7 @@
         "message": "I understand your initial concerns and thats very valid, Elizabeth. But you are amazing and you can do this.",
         "isGroup": true,
         "newMessage": false,
-        "date": "2021-01-06T12:19:00Z"
+        "date": "2024-05-08T10:45:00"
       },
       {
         "id": 4,
@@ -35,7 +35,7 @@
         "message": "Hey there! Welcome to your inbox.",
         "isGroup": false,
         "newMessage": false,
-        "date": "2021-01-06T12:19:00Z"
+        "date": "2024-05-04T10:45:00"
       }
     ]
   },
@@ -51,7 +51,7 @@
             "receiverMode": 0,
             "sender": "Ahmad",
             "message": "No worries. It will be completed ASAP. I've asked him yesterday.",
-            "date": "2024-05-05T10:45:00",
+            "date": "2024-05-06T10:45:00",
             "isRead": true
           },
           {
@@ -59,7 +59,7 @@
             "receiverMode": 1,
             "sender": "Mary Hilda",
             "message": "Hello Ahmad, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
-            "date": "2024-05-07T10:45:00",
+            "date": "2024-05-07T08:00:00",
             "isRead": true
           },
           {
@@ -67,7 +67,7 @@
             "receiverMode": 0,
             "sender": "Ahmad",
             "message": "Please contact Obaidullah for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
-            "date": "2024-05-07T10:45:00",
+            "date": "2024-05-07T08:10:00",
             "isRead": true
           },
           {
@@ -75,7 +75,7 @@
             "receiverMode": 1,
             "sender": "Mary Hilda",
             "message": "Sure thing, Ahmad.",
-            "date": "2024-05-07T10:45:00",
+            "date": "2024-05-07T08:13:00",
             "isRead": true
           },
           {
@@ -83,7 +83,7 @@
             "receiverMode": 2,
             "sender": "Obaidullah Amarkhil",
             "message": "Morning. I'll try to do them. Thanks.",
-            "date": "2024-05-07T10:45:00",
+            "date": "2024-05-07T09:00:00",
             "isRead": false
           }
         ]
