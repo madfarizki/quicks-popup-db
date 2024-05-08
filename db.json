@@ -4,8 +4,8 @@
       {
         "id": 1,
         "title": "109220-Naturalization",
-        "senderName": "Cameron Phillips",
-        "message": "Please check this out!",
+        "senderName": "Obaidullah Amarkhil",
+        "message": "Obaidullah Amarkhil",
         "isGroup": true,
         "newMessage": true,
         "date": "2021-01-01T19:10:00Z"
@@ -43,7 +43,7 @@
     {
       "id": 1,
       "data": {
-        "name": "109220-Naturalization ",
+        "name": "109220-Naturalization",
         "totalParticipants": 3,
         "chats": [
           {
@@ -90,6 +90,80 @@
       }
     },
     {
+      "id": 2,
+      "data": {
+        "name": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+        "totalParticipants": 3,
+        "chats": [
+          {
+            "mode": "sender",
+            "receiverMode": 0,
+            "sender": "Ahmad",
+            "message": "Hey Abdul, can we catch up today? Got something important to discuss.",
+            "date": "2024-05-05T10:45:00",
+            "isRead": true
+          },
+          {
+            "mode": "receiver",
+            "receiverMode": 1,
+            "sender": "Abdul",
+            "message": "Sure, Ahmad! What's up?",
+            "date": "2024-05-07T11:05:00",
+            "isRead": true
+          },
+          {
+            "mode": "receiver",
+            "receiverMode": 2,
+            "sender": "Ellen",
+            "message": "Hey, please read.",
+            "date": "2024-05-07T11:10:00",
+            "isRead": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "data": {
+        "name": "8405-Diana SALAZAR MUNGUIA",
+        "totalParticipants": 3,
+        "chats": [
+          {
+            "mode": "sender",
+            "receiverMode": 0,
+            "sender": "Ahmad",
+            "message": "Elizabeth, Cameron's right. You're amazing and capable. Remember, we're all here to support you every step of the way.",
+            "date": "2024-05-08T17:00:00",
+            "isRead": true
+          },
+          {
+            "mode": "receiver",
+            "receiverMode": 1,
+            "sender": "Elizabeth",
+            "message": "Thank you, Ahmad. Your support means a lot to me. I'll do my best, with everyone's encouragement.",
+            "date": "2024-05-08T17:09:00",
+            "isRead": true
+          },
+          {
+            "mode": "receiver",
+            "receiverMode": 2,
+            "sender": "Cameron Phillips",
+            "message": "I understand your initial concerns and thats very valid, Elizabeth. But you are amazing and you can do this.",
+            "date": "2024-05-08T18:10:00",
+            "isRead": false
+          },
+          {
+            "mode": "receiver",
+            "receiverMode": 1,
+            "sender": "Elizabeth",
+            "message": "Thank you, Cameron.",
+            "date": "2024-05-08T18:30:00",
+            "isRead": false
+          }
+        ]
+      }
+    },
+    {
       "id": 4,
       "data": {
         "name": "FastVisa Support",
@@ -100,8 +174,16 @@
             "mode": "receiver",
             "receiverMode": 1,
             "sender": "FastVisa Support",
-            "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
-            "date": "2024-05-07T10:45:00",
+            "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We'll send you a response as soon as possible.",
+            "date": "2024-05-04T08:00:00",
+            "isRead": true
+          },
+          {
+            "mode": "receiver",
+            "receiverMode": 1,
+            "sender": "Ahmad",
+            "message": "Hi, I need help with something can you help me ?",
+            "date": "2024-05-04T08:03:00",
             "isRead": true
           }
         ]
